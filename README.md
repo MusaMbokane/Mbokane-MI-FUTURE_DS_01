@@ -38,6 +38,11 @@ Some regions significantly outperform others in revenue generation
 **Dashboard Preview**
 ![image alt](https://github.com/MusaMbokane/Mbokane-MI-FUTURE_DS_01/blob/c9aa8927a739e93dcaf4467af6d333d9928674e9/Dashboard%20Preview.png)
 
+**Tools Used**
+ - Excel
+ - DAX
+ - Power BI
+   
 **Findings**
 High-value products drive overall profitability
 Customer demand varies by region and time
