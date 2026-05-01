@@ -36,7 +36,7 @@ Sales show seasonal trends across specific months
 Some regions significantly outperform others in revenue generation
 
 **Dashboard Preview**
-
+![image alt](https://github.com/MusaMbokane/Mbokane-MI-FUTURE_DS_01/blob/c9aa8927a739e93dcaf4467af6d333d9928674e9/Dashboard%20Preview.png)
 
 **Findings**
 High-value products drive overall profitability
